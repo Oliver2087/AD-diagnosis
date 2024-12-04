@@ -23,7 +23,7 @@ int main() {
         }
     }
 
-    int width = 3840;
+    int width = 38qwe
     int height = 2160;
     int bitrate = 4000000;
 
